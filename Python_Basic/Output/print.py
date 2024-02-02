@@ -10,4 +10,20 @@ print("01747297968")
 
 num1 = 20
 num2 = 30
-print(f" {num1} + {num2} = {num1 + num2}")
+# formated string
+print(f"{num1} + {num2} = {num1 + num2}")
+
+# removing end_line/new_line
+print("Hamim Talukdar. ",end=" ")
+print("Bangladesh")
+
+print()
+
+print("Hamim Talukdar.",end="")
+print("Bangladesh")
+
+print()
+
+print("Hamim Talukdar.",end=" Bangladesh" +" in Dhaka")
+print(" at Ashulia")
+print("DIU")
