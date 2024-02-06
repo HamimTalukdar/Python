@@ -13,3 +13,4 @@ print(squares)  # [0, 1, 4, 9, 16]
 
 even_squares = [x**2 for x in range(10) if x % 2 == 0]
 print(even_squares)  # [0, 4, 16, 36, 64]
+
